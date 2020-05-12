@@ -1,0 +1,37 @@
+
+.heading 
+ {
+   
+    font-family: "Segoe UI Light","Segoe WPC","Segoe UI",
+                Helvetica, Arial, "Arial Unicode MS", Sans-Serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: lighter;
+    color: #272626;
+    text-align: center;
+  }
+  
+  .content 
+  {
+    font-family: "Segoe UI Light","Segoe WPC","Segoe UI",
+                Helvetica, Arial, "Arial Unicode MS", Sans-Serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: lighter;
+    color: #272626;
+    text-align: center;
+  }
+  
+  body
+  {
+  background-image:url("background.jpg");
+  }
+  
+  .error
+  {
+      color: #ff0000;
+  }
+  
+  
